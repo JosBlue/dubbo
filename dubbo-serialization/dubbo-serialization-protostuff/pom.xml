@@ -29,7 +29,7 @@ limitations under the License.
     <description>The protostuff serialization module of dubbo project</description>
 
     <properties>
-        <protostuff.version>1.5.9</protostuff.version>
+        <protostuff.version>1.8.0</protostuff.version>
     </properties>
 
     <dependencies>
